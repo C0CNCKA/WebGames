@@ -1,9 +1,19 @@
 ## Collection of games on web
 
-[Wordle - 6 chances to guess a 5-letter word](https://www.nytimes.com/games/wordle)
+[Wordle](https://www.nytimes.com/games/wordle) - 6 chances to guess a 5-letter word
 
-[BalmeNick - Few small games, changing every week](https://blamenick.com)
+[Wordly](https://wordle.belousov.one) - Wordle analog witch allows custom words and sharing with friends
 
-[Krillion - Name the most rare answer to the question](https://krillion.io)
+[BalmeNick](https://blamenick.com) - Few small games, changing every week
 
-[Neal.Fun - collection of some weird games. Some are stupid, some are less](https://neal.fun/)
+[Krillion](https://krillion.io) - Name the most rare answer to the question
+
+[Neal.Fun](https://neal.fun/) - Collection of some weird games. Some are stupid, some are less. My favourite are:
+ - [InfiniteCraft](https://neal.fun/infinite-craft) - Make anything by combining words
+ - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems) - Oh no! A trolley is heading towards 5 people. You can pull the lever to divert it to the other track, killing 1 person instead. What do you do?
+ - [Draw Perfect Circle](https://neal.fun/perfect-circle) - (Prettyu self-explanitory) Try to draw a perfect circle
+
+[LessGames](https://lessgames.com) - Daily small puzzles like:
+ - [Songless](https://lessgames.com/wordless) - Guess the Track by the snippet
+ - [Wordless](https://lessgames.com/songless) - Just like Wordle but with different number of letters
+
